@@ -1,7 +1,7 @@
 {
   "name": "gd32",
-  "title": "GD GD32",
-  "description": "GigaDevice GD32 MCU has many years of industry-leading design experience, as it has already launched a huge variety of 32bit general purpose microcontrollers, based on Arm Cortex-M and RISC-V cores. GigaDevice continues to empower various industry fields, providing high performance and rich in resources MCUs.",
+  "title": "GD32-arcayi-gd32e23x-support",
+  "description": "GigaDevice GD32 MCU. this forked from *CommunityGD32Cores/platform-gd32* focused on gd32e23x support",
   "homepage": "http://www.gd32mcu.com/en/product",
   "license": "Apache-2.0",
   "keywords": [
@@ -16,8 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arcayi/platform-gd32",
-    "branch": "gd32e23x-support"
+    "url": "https://github.com/arcayi/platform-gd32.git#gd32e23x-support"
   },
   "version": "1.0.01",
   "frameworks": {
